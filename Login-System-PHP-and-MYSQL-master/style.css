@@ -6,7 +6,6 @@ body {
 	height: 100vh;
 	flex-direction: column;
 }
-
 *{
 	font-family: sans-serif;
 	box-sizing: border-box;
