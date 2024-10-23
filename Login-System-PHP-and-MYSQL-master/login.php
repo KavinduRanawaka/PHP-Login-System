@@ -10,7 +10,6 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
 	   $data = htmlspecialchars($data);
 	   return $data;
 	}
-
 	$uname = validate($_POST['uname']);
 	$pass = validate($_POST['password']);
 
